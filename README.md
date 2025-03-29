@@ -21,7 +21,6 @@ This project is a **User Management System** that allows users to view, edit, an
 - **Tailwind CSS** (Styling)
 - **React Router** (Navigation)
 - **Axios** (API Requests)
-- **react-hot-toast** (Notifications)
 - **ReqRes API** (Mock API for user data)
 
 ---
